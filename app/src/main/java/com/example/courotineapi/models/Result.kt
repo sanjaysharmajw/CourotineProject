@@ -1,4 +1,4 @@
-package com.example.courotineapi
+package com.example.courotineapi.models
 
 data class Result(
     val _id: String,

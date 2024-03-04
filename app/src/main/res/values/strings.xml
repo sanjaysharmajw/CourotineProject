@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">courotine api</string>
-    <string name="list">List</string>
+    <string name="app_name">Coroutine API</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
 </resources>

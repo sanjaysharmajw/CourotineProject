@@ -1,10 +1,12 @@
-package com.example.courotineapi
+package com.example.courotineapi.Adapters
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.courotineapi.R
+import com.example.courotineapi.models.Result
 
 class CustomAdapter(private val mList: List<Result>) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
 
